@@ -11,6 +11,12 @@ Backend developer focused on building reliable, scalable systems. I craft APIs a
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihoZaki/MihoZaki/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihoZaki/MihoZaki/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MihoZaki/MihoZaki/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ## 🎯 Interests
 - **Backend Development:** REST/gRPC APIs • Microservices • Database Design
@@ -32,5 +38,3 @@ I enjoy **recreational programming** — tinkering with toy compilers, reading s
 > *"Taking a new step, uttering a new word, is what people fear most."*  
 > — Fyodor Dostoevsky
 
-
-![snake gif](https://github.com/MihoZaki/MihoZaki/blob/output/github-contribution-grid-snake-dark.gif)
