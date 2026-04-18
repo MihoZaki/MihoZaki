@@ -31,3 +31,6 @@ I enjoy **recreational programming** — tinkering with toy compilers, reading s
 
 > *"Taking a new step, uttering a new word, is what people fear most."*  
 > — Fyodor Dostoevsky
+
+
+![snake gif](https://github.com/MihoZaki/MihoZaki/blob/output/github-contribution-grid-snake-dark.gif)
