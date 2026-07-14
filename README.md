@@ -2,12 +2,6 @@
 
 Backend developer focused on building reliable, scalable systems. I craft APIs and services with **Go** and **PHP**, and I'm currently diving into the fundamentals of systems programming with **Rust** and **C**.
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihoZaki/MihoZaki/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihoZaki/MihoZaki/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MihoZaki/MihoZaki/output/pacman-contribution-graph.svg">
-</picture>
-
 
 ## Interests
 - **Backend Development:** REST/gRPC APIs • Microservices • Database Design
